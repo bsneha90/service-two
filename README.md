@@ -10,15 +10,15 @@ Below are the architecture of the application in different environments:
 
 #### Default Environment
 
-![alt tag](https://github.com/microservices-sample/service-two/blob/master/doc/architecture/service-two%20(default).png?raw=true)
+![alt tag](https://github.com/microservices-sample/service-two/blob/version-5/doc/architecture/service-two%20(default).png?raw=true)
 
 ##### Development
 
-Execute mvn build spring-boot:run to bring up the application in default environment
+Execute mvn build spring-boot:run to bring up the service-one application in default environment
 
 #### Docker Environment
 
-![alt tag](https://github.com/microservices-sample/service-two/blob/master/doc/architecture/service-two%20(docker).png?raw=true)
+![alt tag](https://github.com/microservices-sample/service-two/blob/version-5/doc/architecture/service-two%20(docker).png?raw=true)
 
 ##### Development
 
