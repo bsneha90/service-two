@@ -14,7 +14,7 @@ Below are the architecture of the application in different environments:
 
 ##### Development
 
-Execute mvn build spring-boot:run to bring up the service-one application in default environment
+Execute mvn build spring-boot:run to bring up the service-two application in default environment
 
 #### Docker Environment
 
